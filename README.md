@@ -31,7 +31,7 @@ summary and below are the use cases for each functionality.
 
 ### Pre-conditions
 * Database server should be up and running
-* Backend NodeJS and frontend application should be started by following the steps given in the [recreate document]()
+* Backend NodeJS and frontend application should be started by following the steps given in the [recreate document](https://github.com/meenams/Austin-Animal-Center-Database/blob/main/application/README.pdf)
 
 ## Final project
 This folder contains our [final report](https://github.com/meenams/Austin-Animal-Center-Database/blob/main/report/Project%20Report.pdf) and our video presentation can be found [here](https://www.youtube.com/watch?v=r1ftB8UKpVg).
